@@ -2,6 +2,8 @@
 
 import time
 import unittest
+import os
+import sys
 from com.hpeu.Tools.ChooseBrowser import ChooseBrowser
 from com.hpeu.Tools.ReadFile import ReadFile
 from com.hpeu.Tools.GetScreenshot import GetScreenshot
@@ -16,6 +18,8 @@ class Login(unittest.TestCase):
         myBrowser = ChooseBrowser()        
         self.driver = myBrowser.ChooseBrowser(self.GetVule.getTestConf('BrowserType', 'TestBrowser'))
         self.getScreenTest = GetScreenshot(self.driver)
+        
+        sys.path.append(os.path.split(os.path.split(os.path.split(os.path.abspath(os.path.dirname(__file__)))[0])[0])[0])
     
     def test_WebTourLogin(self):
         mydriver = self.driver

@@ -3,7 +3,6 @@
 
 import os
 import configparser
-from test.test_optparse import TestConflict
 
 class ReadFile():
     def getTestConf(self,section, option):
