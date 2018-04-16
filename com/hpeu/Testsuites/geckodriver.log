@@ -1,0 +1,221 @@
+1522767805782	geckodriver	INFO	geckodriver 0.20.0
+1522767805812	geckodriver	INFO	Listening on 127.0.0.1:59790
+1522767808855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.PfafAl9OnX8W"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522767810322	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522767813840	Marionette	INFO	Listening on port 59798
+1522767814110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 17008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17008, C[Parent 18640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aths.vrpath
+1522767880932	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522767884564	Marionette	INFO	Listening on port 53921
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522767884964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829357516	geckodriver	INFO	geckodriver 0.20.0
+1522829357547	geckodriver	INFO	Listening on 127.0.0.1:63989
+1522829360650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.U6SI4KWoTqaw"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829363226	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829367672	Marionette	INFO	Listening on port 63997
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829368444	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829396664	geckodriver::marionette	ERROR	Failed to stop browser process
+1522829397033	geckodriver	INFO	geckodriver 0.20.0
+1522829397065	geckodriver	INFO	Listening on 127.0.0.1:64072
+1522829400136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.gyo9ckKCtU0f"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829401584	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829404898	Marionette	INFO	Listening on port 64081
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829405512	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 2136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829436431	geckodriver::marionette	ERROR	Failed to stop browser process
+1522829452108	geckodriver	INFO	geckodriver 0.20.0
+1522829452146	geckodriver	INFO	Listening on 127.0.0.1:64144
+1522829455418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.oOt9aA0kEENz"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829460298	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829464920	Marionette	INFO	Listening on port 64153
+1522829465890	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Parent 19448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829496544	geckodriver::marionette	ERROR	Failed to stop browser process
+1522829496920	geckodriver	INFO	geckodriver 0.20.0
+1522829496967	geckodriver	INFO	Listening on 127.0.0.1:65396
+1522829500031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.nuJF4DMAf0Ni"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829502376	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829506200	Marionette	INFO	Listening on port 65405
+1522829506524	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829528385	geckodriver	INFO	geckodriver 0.20.0
+1522829528401	geckodriver	INFO	Listening on 127.0.0.1:65459
+1522829531469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.VwWia5opgBrh"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829533198	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829536466	Marionette	INFO	Listening on port 65467
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829536870	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15052, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829561155	geckodriver::marionette	ERROR	Failed to stop browser process
+1522829561590	geckodriver	INFO	geckodriver 0.20.0
+1522829561632	geckodriver	INFO	Listening on 127.0.0.1:51921
+1522829564688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.CVn2I2HZNpaz"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829566256	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522829570000	Marionette	INFO	Listening on port 51930
+1522829570084	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522829600083	geckodriver::marionette	ERROR	Failed to stop browser process
+1522830048461	geckodriver	INFO	geckodriver 0.20.0
+1522830048492	geckodriver	INFO	Listening on 127.0.0.1:63214
+1522830051538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.xzo8HgaxaAF9"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522830053286	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522830056832	Marionette	INFO	Listening on port 63223
+1522830056914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 9888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522830079742	geckodriver::marionette	ERROR	Failed to stop browser process
+1522831004592	geckodriver	INFO	geckodriver 0.20.0
+1522831004649	geckodriver	INFO	Listening on 127.0.0.1:53256
+1522831007653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.H5ilSbCFBQ5w"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522831009778	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1522831015984	Marionette	INFO	Listening on port 53265
+1522831016406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 18780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522831045216	geckodriver::marionette	ERROR	Failed to stop browser process
+1523326929670	geckodriver	INFO	geckodriver 0.20.0
+1523326929711	geckodriver	INFO	Listening on 127.0.0.1:64428
+1523326932769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.cvJzaquWtpxH"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523326935924	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523326939970	Marionette	INFO	Listening on port 64436
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523326940244	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 10732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523326963848	geckodriver::marionette	ERROR	Failed to stop browser process
+1523326964294	geckodriver	INFO	geckodriver 0.20.0
+1523326964332	geckodriver	INFO	Listening on 127.0.0.1:64506
+1523326967453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.Jr3kt608Zrzy"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523326969580	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523326974064	Marionette	INFO	Listening on port 64514
+1523326974828	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 7744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 7744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6336, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523326987447	geckodriver::marionette	ERROR	Failed to stop browser process
+1523501958371	geckodriver	INFO	geckodriver 0.20.0
+1523501958411	geckodriver	INFO	Listening on 127.0.0.1:52243
+1523501961456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lushi\\AppData\\Local\\Temp\\rust_mozprofile.Ts0ctKW6Q1C0"
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523501963280	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523501966482	Marionette	INFO	Listening on port 52251
+Unable to read VR Path Registry from C:\Users\lushi\AppData\Local\openvr\openvrpaths.vrpath
+1523501966724	Marionette	WARN	TLS certificate errors will be ignored for this session
